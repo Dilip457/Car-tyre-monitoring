@@ -9,3 +9,7 @@ Technology : Python and libraries, MongoDB, Flask, HTML/CSS
 Duration : 2 weeks
 
 Team Size : 4
+
+
+Find the task objectives here : ![WhatsApp Image 2022-11-01 at 12 09 44 PM (1)](https://user-images.githubusercontent.com/73051507/209459715-38af4541-0027-4c23-870e-52bf94baad5c.jpeg)
+
